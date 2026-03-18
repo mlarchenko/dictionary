@@ -9,3 +9,4 @@ if rectangle.get("area") == None:
 print(rectangle["area"])
 #квадратні дужки coords[][] для списку в списку
 print(rectangle)
+
