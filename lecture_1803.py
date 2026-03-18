@@ -10,3 +10,5 @@ print(rectangle["area"])
 #квадратні дужки coords[][] для списку в списку
 print(rectangle)
 
+
+
